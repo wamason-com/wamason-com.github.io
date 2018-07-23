@@ -32,19 +32,31 @@ about_content: | # this will include new lines to allow paragraphs
 # projects_title: Projects
 
 # Experience Section
-# experience_title: Experience
+experience_title: Experience
+experience_content: | # paragraphs allowed again
+
+UBC
+OSR
+FORE Systems
+Transarc
+Stanford
 
 # Education Section
-# educaton_title: Education
+educaton_title: Education | # paragraphs allowed
+
+UBC
+Georgia Institute of Technology
+University of Chicago
+
 
 # More Section
 # more_title: A Little More About Me
-more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Climbing
-   - Fortnite
-   - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+# more_content: | # this will include new lines to allow paragraphs
+#  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+#   - Climbing
+#   - Fortnite
+#   - Knitting
+#   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
 # Footer
 footer_show_references: true
